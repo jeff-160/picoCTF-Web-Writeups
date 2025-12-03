@@ -1,0 +1,1 @@
+Flag: `picoCTF{w34k_jwt_n0t_g00d_42f5774a}`

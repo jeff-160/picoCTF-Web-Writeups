@@ -1,0 +1,48 @@
+[ ] Easy
+    [ ] idk i dont feel like doing this shit
+
+[ ] Medium
+    [x] Crack the gate 2
+    [x] byp4ss3d
+    [ ] SSTI2
+    [x] 3v@l
+    [ ] Pachinko (deepseek)
+    [x] Trickster
+    [ ] No SQL Injection
+    [x] SOAP (xml entity rce)
+    [x] More SQLi
+    [x] MatchTheRegex
+    [ ] Java Code Analysis
+    [x] findme (burpsuite intercept ig)
+    [x] SQLiLite
+    [x] Secrets
+    [x] Search Source
+    [x] Roboto Sans
+    [x] Power Cookie
+    [x] Forbidden Paths
+    [x] JAuth (alg none)
+    [x] caas (command injection)
+    [x] login (reverse engineer js)
+    [ ] Super Serial (php deserialisation rce)
+    [x] Most Cookies
+    [x] Web Gauntlet 2
+    [x] Some Assembly Required 1
+    [x] Who Are you?
+    [x] Some Assembly Required 2
+    [x] Web Gauntlet 3
+    [x] More Cookies
+    [x] It is my Birthday (php type juggling hash collision)
+    [x] Web Gauntlet
+    [x] Irish Name Repo 1
+    [x] Client-side-again
+    [x] Irish-Name-Repo 2
+    [x] picoBrowser
+    [x] Irish-Name Repo 3
+    [x] JaWT Scratchpad
+
+[ ] Hard
+    [x] Some Assembly Required 3
+    [x] Some Assembly Required 4
+    [x] Java Script Kiddie
+    [x] Java Script Kiddie 2
+    [x] notepad
