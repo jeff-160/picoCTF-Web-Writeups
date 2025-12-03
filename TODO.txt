@@ -4,7 +4,7 @@
 [ ] Medium
     [x] Crack the gate 2
     [x] byp4ss3d
-    [ ] SSTI2
+    [x] SSTI2
     [x] 3v@l
     [ ] Pachinko (deepseek)
     [x] Trickster
