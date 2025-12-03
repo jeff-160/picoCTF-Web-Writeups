@@ -23,7 +23,7 @@
     [x] JAuth (alg none)
     [x] caas (command injection)
     [x] login (reverse engineer js)
-    [ ] Super Serial (php deserialisation rce)
+    [x] Super Serial (php deserialisation rce)
     [x] Most Cookies
     [x] Web Gauntlet 2
     [x] Some Assembly Required 1
