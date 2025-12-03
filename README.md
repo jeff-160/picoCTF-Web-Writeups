@@ -1,3 +1,3 @@
 collection of all my picoctf web solves  
 
-no writeups for Easy challs cuz those are for scrubs  
+only contains writeups for Medium/Hard cuz Easy challs are for scrubs    
