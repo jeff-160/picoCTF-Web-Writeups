@@ -8,7 +8,7 @@
     [x] 3v@l
     [ ] Pachinko (deepseek)
     [x] Trickster
-    [ ] No SQL Injection
+    [x] No SQL Injection
     [x] SOAP (xml entity rce)
     [x] More SQLi
     [x] MatchTheRegex
