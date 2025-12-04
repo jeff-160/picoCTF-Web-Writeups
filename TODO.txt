@@ -1,12 +1,9 @@
-[ ] Easy
-    [ ] idk i dont feel like doing this shit
-
 [ ] Medium
     [x] Crack the gate 2
     [x] byp4ss3d
     [x] SSTI2
     [x] 3v@l
-    [ ] Pachinko (deepseek)
+    [x] Pachinko (deepseek)
     [x] Trickster
     [x] No SQL Injection
     [x] SOAP (xml entity rce)
